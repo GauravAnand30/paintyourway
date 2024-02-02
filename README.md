@@ -30,6 +30,7 @@ Select colors from the palette.
 Use the drawing tool to create artwork.
 Utilize the eraser for corrections.
 Save and share the masterpieces.
+
 Contribution:
 Contributions are welcome! Whether it's adding new features, improving existing ones, or enhancing the user interface, your ideas and efforts are appreciated. Fork the repository, make your changes, and submit a pull request.
 
@@ -37,5 +38,7 @@ License:
 This project is licensed under the MIT License, allowing for flexibility and collaboration.
 
 Let the Kids' Drawing Board project be a source of joy and creativity for children, providing a platform for them to express themselves artistically in a digital world!
+
+
 
 
