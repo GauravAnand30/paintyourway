@@ -1,0 +1,1 @@
+The Kids' Drawing Board project is a fun and interactive web application designed to provide a creative space for small kids to unleash their artistic talents. Built using HTML, CSS, and JavaScript, this project aims to engage children in a playful and educational way, fostering their imagination and fine motor skills.
